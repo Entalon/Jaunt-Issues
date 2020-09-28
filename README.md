@@ -5,8 +5,8 @@
 # [Jaunt-Issues](https://github.com/Entalon/Jaunt-Issues/issues)
 Issue Tracker for [Jaunt](https://www.jaunt.entalon.com), a rideshare [Slack](https://www.slack.com) Application that allows users to create events, organize rides to and from those events, and manage ridership while promoting cost sharing.
 
-* To view issues, view the `Issues` tab above, or [click here](https://github.com/Entalon/Jaunt-Issues/issues).
-* To report an issue, [click here](https://github.com/Entalon/Jaunt-Issues/issues/new).
+* To view issues, view the `Issues` tab above, [or click here](https://github.com/Entalon/Jaunt-Issues/issues).
+* [To report an issue, click here](https://github.com/Entalon/Jaunt-Issues/issues/new).
 
 ## Reporting Issues
 We thank you for reporting issues with Jaunt. The following section outlines the best way to report issues, what to include, what not to include, and more.
