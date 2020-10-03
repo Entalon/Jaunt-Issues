@@ -1,6 +1,6 @@
 [![Jaunt Logo](https://jaunt.entalon.com/wp-content/uploads/2020/09/Jaunt-10-768x375.png)](https://www.jaunt.entalon.com)
 
-[![Add to Slack](https://platform.slack-edge.com/img/add_to_slack@2x.png)](https://slack.com/oauth/authorize?client_id=460677056199.459622504210&scope=chat:write:bot,commands,bot)
+[![Add to Slack](https://platform.slack-edge.com/img/add_to_slack@2x.png)](https://slack.com/oauth/v2/authorize?client_id=460677056199.459622504210&scope=channels:join,channels:read,chat:write,commands,groups:read&user_scope=)
 
 # [Jaunt-Issues](https://github.com/Entalon/Jaunt-Issues/issues)
 Issue Tracker for [Jaunt](https://www.jaunt.entalon.com), a rideshare [Slack](https://www.slack.com) Application that allows users to create events, organize rides to and from those events, and manage ridership while promoting cost sharing.
